@@ -109,9 +109,9 @@ export default function SAPServicesPage() {
                 <p className="text-gray-600 mb-6">
                   Complete SAP transformation solutions with cloud migration services for modern business needs.
                 </p>
-                <Button className="w-full bg-blue-600 hover:bg-blue-700">
+                {/* <Button className="w-full bg-blue-600 hover:bg-blue-700">
                   <Link href="/services/sap/rise-with-sap">Learn More</Link>
-                </Button>
+                </Button> */}
               </CardContent>
             </Card>
 
@@ -124,9 +124,9 @@ export default function SAPServicesPage() {
                 <p className="text-gray-600 mb-6">
                   Business intelligence solutions with advanced SAP reporting and interactive dashboards.
                 </p>
-                <Button className="w-full bg-green-600 hover:bg-green-700">
+                {/* <Button className="w-full bg-green-600 hover:bg-green-700">
                   <Link href="/services/sap/analytics">Learn More</Link>
-                </Button>
+                </Button> */}
               </CardContent>
             </Card>
 
@@ -139,9 +139,9 @@ export default function SAPServicesPage() {
                 <p className="text-gray-600 mb-6">
                   Ongoing SAP support and maintenance with comprehensive application management.
                 </p>
-                <Button className="w-full bg-purple-600 hover:bg-purple-700">
+                {/* <Button className="w-full bg-purple-600 hover:bg-purple-700">
                   <Link href="/services/sap/managed-services">Learn More</Link>
-                </Button>
+                </Button> */}
               </CardContent>
             </Card>
 
@@ -154,9 +154,9 @@ export default function SAPServicesPage() {
                 <p className="text-gray-600 mb-6">
                   Strategic SAP assessments and value extraction from existing systems.
                 </p>
-                <Button className="w-full bg-orange-600 hover:bg-orange-700">
+                {/* <Button className="w-full bg-orange-600 hover:bg-orange-700">
                   <Link href="/services/sap/assessment">Learn More</Link>
-                </Button>
+                </Button> */}
               </CardContent>
             </Card>
 
@@ -169,9 +169,9 @@ export default function SAPServicesPage() {
                 <p className="text-gray-600 mb-6">
                   Core SAP implementation services with systematic deployment across organizations.
                 </p>
-                <Button className="w-full bg-red-600 hover:bg-red-700">
+                {/* <Button className="w-full bg-red-600 hover:bg-red-700">
                   <Link href="/services/sap/implementation">Learn More</Link>
-                </Button>
+                </Button> */}
               </CardContent>
             </Card>
 
@@ -184,9 +184,9 @@ export default function SAPServicesPage() {
                 <p className="text-gray-600 mb-6">
                   Critical SAP transformation component with legacy system modernization focus.
                 </p>
-                <Button className="w-full bg-teal-600 hover:bg-teal-700">
+                {/* <Button className="w-full bg-teal-600 hover:bg-teal-700">
                   <Link href="/services/sap/data-migration">Learn More</Link>
-                </Button>
+                </Button> */}
               </CardContent>
             </Card>
           </div>
